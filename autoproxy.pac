@@ -11,6 +11,7 @@ var rules = [
     ],
     [
         [
+            "raw.githubusercontent.com",
             "ppa.launchpad.net"
             "docker.io",
             "registry-1.docker.io",

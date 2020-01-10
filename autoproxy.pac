@@ -11,10 +11,6 @@ var rules = [
     ],
     [
         [
-            "raw.githubusercontent.com",
-            "ppa.launchpad.net"
-            "docker.io",
-            "registry-1.docker.io",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
@@ -1866,6 +1862,7 @@ var rules = [
             "gitbooks.io",
             "github.com",
             "github.io",
+            "githubusercontent.com",
             "gizlen.net",
             "gjczz.com",
             "glass8.eu",
@@ -5611,4 +5608,3 @@ if (!String.prototype.endsWith) {
         return lastIndex !== -1 && lastIndex === position;
   };
 }
-

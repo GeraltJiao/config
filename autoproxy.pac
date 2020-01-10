@@ -1865,7 +1865,6 @@ var rules = [
             "gitbooks.io",
             "github.com",
             "github.io",
-            "githubusercontent.com",
             "gizlen.net",
             "gjczz.com",
             "glass8.eu",

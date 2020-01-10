@@ -11,6 +11,7 @@ var rules = [
     ],
     [
         [
+            "cn.archive.ubuntu.com",
             "docker.io",
             "registry-1.docker.io",
             "aftygh.gov.tw",

@@ -11,6 +11,7 @@ var rules = [
     ],
     [
         [
+            "ppa.launchpad.net"
             "cn.archive.ubuntu.com",
             "docker.io",
             "registry-1.docker.io",
